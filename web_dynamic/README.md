@@ -14,6 +14,6 @@ This is a Web Dynamic Project with Flask
 - Flasgger
 
 ## Installations
-`sudo apt-get install -y python3-lxml`
-`sudo pip3 install flask_cors # if it was not installed yet`
-`sudo pip3 install flasgger`
+* `sudo apt-get install -y python3-lxml`
+* `sudo pip3 install flask_cors # if it was not installed yet`
+* `sudo pip3 install flasgger`
